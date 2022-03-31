@@ -1,0 +1,33 @@
+body 
+	{
+	text-align: center;
+	font-family: copperplate;
+	background-color: #FEFAE0;
+	color: #4A403A;
+	}
+div
+	{
+	margin: 10px 35px;
+	padding: 10px;
+	border-radius: 25px;
+	}
+p
+	{
+	color: gray;
+	}
+#name
+	{
+	font-size: 50px;
+	}
+#information 
+	{
+	background-color: #CCD5AE;
+	}
+#experience, #skills 
+	{
+	background-color: #FAEDCD; 
+	}
+#education
+	{
+	background-color: #E9EDC9;
+	}
